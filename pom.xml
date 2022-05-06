@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>cn.itcast.up</groupId>
-    <artifactId>userprofile_bak</artifactId>
+    <artifactId>userprofile_bak22</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
